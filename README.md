@@ -7,11 +7,6 @@
 <a href="https://www.instagram.com/joviscab/">
   <img align="left" alt="Joviscab's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://open.spotify.com/artist/2ANpaHZqhpoX3qj6nlujZr?si=P_zWxhCKTZKUeFR-TJnx7g)">
-  <img align="left" alt="Joviscab's Spotify" width="26px" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2017/240/iconmonstr-spotify-1.png"/>
-</a>
-
-
 
 
 
