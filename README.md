@@ -11,7 +11,7 @@
 
 ![](https://img.shields.io/badge/Javascript-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/CSS-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/HTML-%7C-0%2C%2022%2C%20100)
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 <a href="https://github.com/joviscab">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joviscab&theme=dark">
 </a>
