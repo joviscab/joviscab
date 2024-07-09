@@ -7,14 +7,14 @@
 
 - 📚: Currently, following the Full Stack Javascript path of Project Odin;
 - ⏳: Learning advanced HTML, CSS and Vanilla Javascript;
-- 📫 How to reach me: joviscab@gmail.com;
+- 📫: How to reach me: joviscab@gmail.com;
 
 ![](https://img.shields.io/badge/Javascript-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/CSS-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/HTML-%7C-0%2C%2022%2C%20100)
 
 <br><br>
 <a href="https://github.com/joviscab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joviscab&theme=dark">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joviscab&theme=dark">
 </a>
 <a href="https://github.com/joviscab">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=joviscab&show_icons=true&theme=dark&line_height=30" alt="Joviscab's github stats"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=joviscab&show_icons=true&theme=dark&line_height=30" alt="Joviscab's github stats"/>
 </a>
