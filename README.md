@@ -4,9 +4,11 @@
 
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2c5cHQ5NWg4a3M5N3I1MGtyd3RwMTR4dGxsbmg3aWh4bjFveTQzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9rtpurjbqiqZXbBBet/giphy.webp" alt="Doge Computer" width="300" height="300">
 <br>
+
 - 📚: Currently, following the Full Stack Javascript path of Project Odin;
 - ⏳: Learning advanced HTML, CSS and Vanilla Javascript;
 - 📫: How to reach me: joviscab@gmail.com;
+- 
 <br><br>
 ![](https://img.shields.io/badge/Javascript-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/CSS-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/HTML-%7C-0%2C%2022%2C%20100)
 
