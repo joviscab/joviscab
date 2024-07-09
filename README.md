@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi 👋, I'm [Joviscab!](https://github.com/joviscab) 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=joviscab&label=Views&color=blue&style=plastic" alt="joviscab" /> </p>
 
-<!--
-**joviscab/joviscab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2c5cHQ5NWg4a3M5N3I1MGtyd3RwMTR4dGxsbmg3aWh4bjFveTQzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9rtpurjbqiqZXbBBet/giphy.webp" alt="Doge Computer" width="500" height="400">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.instagram.com/joviscab/">
+  <img align="left" alt="Joviscab's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://open.spotify.com/artist/2ANpaHZqhpoX3qj6nlujZr?si=P_zWxhCKTZKUeFR-TJnx7g)">
+  <img align="left" alt="Joviscab's Spotify" width="26px" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2017/240/iconmonstr-spotify-1.png"/>
+</a>
+
+
+
+
+
+- 📚: Currently, following the Full Stack Javascript path of Project Odin;
+- ⏳: Learning advanced HTML, CSS and Vanilla Javascript;
+- 📫 How to reach me: joviscab@gmail.com;
+
+![](https://img.shields.io/badge/Javascript-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/CSS-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/HTML-%7C-0%2C%2022%2C%20100)
+
+<br><br>
+<a href="https://github.com/joviscab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joviscab&theme=dark">
+</a>
+<a href="https://github.com/joviscab">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=joviscab&show_icons=true&theme=dark&line_height=30" alt="Joviscab's github stats"/>
+</a>
