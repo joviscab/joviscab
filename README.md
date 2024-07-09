@@ -13,8 +13,8 @@
 
 <br><br>
 <a href="https://github.com/joviscab">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joviscab&theme=dark">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joviscab&theme=dark">
 </a>
 <a href="https://github.com/joviscab">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=joviscab&show_icons=true&theme=dark&line_height=30" alt="Joviscab's github stats"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=joviscab&show_icons=true&theme=dark&line_height=30" alt="Joviscab's github stats"/>
 </a>
