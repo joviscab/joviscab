@@ -1,6 +1,6 @@
 ## Hi 👋, I'm [Joviscab!](https://github.com/joviscab) 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=joviscab&label=Views&color=blue&style=plastic" alt="joviscab" /> </p>
-<br><br>
+<br>
 
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2c5cHQ5NWg4a3M5N3I1MGtyd3RwMTR4dGxsbmg3aWh4bjFveTQzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9rtpurjbqiqZXbBBet/giphy.webp" alt="Doge Computer" width="300" height="300">
 <br><br>
