@@ -10,7 +10,7 @@
 - ⏳: Learning advanced HTML, CSS and Vanilla Javascript;
 - ⛰️: I like mountains a lot;
 - 📫: How to reach me: joviscab@gmail.com
-- ✔️: My last finished project: https://joviscab.github.io/todo-list/
+- ✔️: My last finished project: (https://joviscab.github.io/homepage/)
   <br>
 
 ![](https://img.shields.io/badge/Javascript-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/CSS-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/HTML-%7C-0%2C%2022%2C%20100)
