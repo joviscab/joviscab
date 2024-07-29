@@ -8,7 +8,8 @@
 
 - 📚: Currently, following the Full Stack Javascript path of Project Odin;
 - ⏳: Learning advanced HTML, CSS and Vanilla Javascript;
-- ⛰️: I like mountains a lot;
+- ⛰️: I like mountains;
+- 🐕: I like dogs;
 - 📫: How to reach me: joviscab@gmail.com
 - ✔️: My last finished project: https://joviscab.github.io/homepage/
   <br>
