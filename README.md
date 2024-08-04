@@ -7,7 +7,7 @@
 <br>
 
 - 📚: Currently, following the Full Stack Javascript path of  The Odin Project;
-- ⏳: Perfecting advanced HTML, CSS and Vanilla Javascript skills;
+- ⏳: Advanced HTML, CSS and Vanilla Javascript skills;
 - ⚛️: Learning React;
 - ⛰️: I like mountains;
 - 🐕: I like dogs;
