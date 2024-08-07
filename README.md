@@ -12,7 +12,7 @@
 - ⛰️: I like mountains;
 - 🐕: I like dogs;
 - 📫: How to reach me: joviscab@gmail.com
-- ✔️: My last finished project: https://joviscab.github.io/homepage/
+- ✔️: My last finished project: Do your curriculum! https://cv-app-liart-psi.vercel.app/
   <br>
 
 ![](https://img.shields.io/badge/Javascript-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/CSS-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/HTML-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/React-%7C-0%2C%2022%2C%20100)
